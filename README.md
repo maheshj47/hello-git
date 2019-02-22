@@ -1,2 +1,3 @@
 # hello-git
-learning something
+learning something new to create project
+in efficient way
